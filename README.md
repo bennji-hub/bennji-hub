@@ -1,6 +1,5 @@
 # Hey, I'm Benjamin 👋
 
-**Cloud & DevOps Engineer · based in Nürnberg, Germany · open to remote + on-site within ~100 km**
 
 I run production workloads on Linux, Docker, and AWS — coming from a SysAdmin background and now focused on infrastructure automation, container hardening, and observability. I learn by building small but real systems end-to-end: design, ship, audit, retro. The repos below are the receipts.
 
