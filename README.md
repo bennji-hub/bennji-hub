@@ -51,12 +51,8 @@ Each repo follows a 7-stage delivery workflow (Plan → Tests → Implement → 
 
 ---
 
-## Open to
-
-DevOps Engineer / Cloud Engineer / Platform Engineer roles in DACH (Nürnberg + ~100 km commute) or fully remote.
-
 - 📧 [benjamindoelz@gmail.com](mailto:benjamindoelz@gmail.com)
-- 🌍 Nürnberg, Germany
+- 🌍 Germany
 - 🇩🇪 Native German · 🇬🇧 Professional English
 
 If you want a deeper look at any of the projects above, I'll happily grant repo access for an interview — just ask.
